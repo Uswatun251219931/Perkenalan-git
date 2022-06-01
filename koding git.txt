@@ -1,0 +1,1 @@
+git init = inisialisasi file yang di git
