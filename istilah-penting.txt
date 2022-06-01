@@ -1,0 +1,11 @@
+Git = VCS (visual Control System) management folder
+Repository : folder project kita
+Commit: rekaman / snapshot dari repositori 
+Hast: penanda unik pada sebuah commit
+Checkout= berpindah ke sebuah commit
+Branch= cabang bebas dari sebuah commit
+Merge= menggabungkan branch
+Remote= sumber yang memiliki repo
+Clone= mengambil repo dari remote
+push= menggirimkan commit ke repo
+pull= mengambil commit dari repo
