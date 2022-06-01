@@ -9,4 +9,3 @@ Remote= sumber yang memiliki repo
 Clone= mengambil repo dari remote
 push= menggirimkan commit ke repo
 pull= mengambil commit dari repo
-git init = inisialisasi git (akan dipantau git)
