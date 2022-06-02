@@ -1,1 +1,3 @@
 git init = inisialisasi file yang di git
+cd= masuk dalam folder atau file
+ls = melihat isi dari folder
